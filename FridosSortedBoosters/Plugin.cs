@@ -1,8 +1,8 @@
 ﻿using BepInEx;
 using BepInEx.Unity.IL2CPP;
+using CellMenu;
 using HarmonyLib;
 using LogUtils;
-using CellMenu;
 
 namespace FridosSortedBoosters
 {
